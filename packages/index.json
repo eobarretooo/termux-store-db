@@ -1,0 +1,14 @@
+[
+  {
+    "name": "vim",
+    "category": "development",
+    "short_description": "Powerful terminal text editor",
+    "gui": false,
+    "x11_required": false,
+    "rating": {
+      "works_great": 0,
+      "unstable": 0,
+      "broken": 0
+    }
+  }
+]

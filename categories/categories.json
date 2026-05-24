@@ -1,0 +1,52 @@
+[
+  {
+    "id": "development",
+    "label": "Development",
+    "description": "Editors, compilers, debuggers, and version control tools"
+  },
+  {
+    "id": "terminal",
+    "label": "Terminal",
+    "description": "Shell tools, terminal multiplexers, and TUI file managers"
+  },
+  {
+    "id": "multimedia",
+    "label": "Multimedia",
+    "description": "Video, audio, and image tools"
+  },
+  {
+    "id": "network",
+    "label": "Network",
+    "description": "Browsers, downloaders, SSH, VPN, and network diagnostics"
+  },
+  {
+    "id": "utilities",
+    "label": "Utilities",
+    "description": "General-purpose system and user tools"
+  },
+  {
+    "id": "security",
+    "label": "Security",
+    "description": "Security testing, encryption, and password tools"
+  },
+  {
+    "id": "graphics",
+    "label": "Graphics",
+    "description": "Drawing, image editing, and graphics tools"
+  },
+  {
+    "id": "productivity",
+    "label": "Productivity",
+    "description": "Notes, documents, office tools, and task management"
+  },
+  {
+    "id": "games",
+    "label": "Games",
+    "description": "Games that run natively in Termux or Termux X11"
+  },
+  {
+    "id": "fonts",
+    "label": "Fonts",
+    "description": "Font packages useful for terminal and X11 apps"
+  }
+]

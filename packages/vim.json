@@ -1,0 +1,23 @@
+{
+  "name": "vim",
+  "termux_package": true,
+  "gui": false,
+  "x11_required": false,
+  "category": "development",
+  "short_description": "Powerful terminal text editor",
+  "long_description": "Vim is a highly configurable text editor that runs well inside Termux without requiring Termux X11.",
+  "install_command": "pkg install vim",
+  "launch_command": "vim",
+  "tips": [
+    "Run vimtutor to learn the basic commands.",
+    "Use pkg install vim-python if you need Python-enabled Vim features."
+  ],
+  "screenshots": [],
+  "community_rating": {
+    "works_great": 0,
+    "unstable": 0,
+    "broken": 0
+  },
+  "submitted_by": "eobarretooo",
+  "last_updated": "2026-05-24"
+}
